@@ -1,0 +1,1212 @@
+2
+Pong
+2
+configurations/sample_configuration.json
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+[33mWARN: <class 'src.env_wrappers.FrameStack'> doesn't implement 'reset' method, but it implements deprecated '_reset' method.[0m
+real mean -21.0
+mean eval for rank 4 is -2.099999999999998
+real mean -21.0
+mean eval for rank 3 is -2.099999999999998
+real mean -21.0
+mean eval for rank 1 is -2.099999999999998
+real mean -21.0
+mean eval for rank 0 is -2.099999999999998
